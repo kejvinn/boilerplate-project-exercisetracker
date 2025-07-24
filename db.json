@@ -1,0 +1,292 @@
+{
+  "users": [
+    {
+      "id": "5c06",
+      "username": "test",
+      "_id": "6bda0abf0086c8da"
+    },
+    {
+      "id": "2a97",
+      "username": "fcc_test_17533502370",
+      "_id": "b1a8546df32876a0"
+    },
+    {
+      "id": "f143",
+      "username": "fcc_test_17533502371",
+      "_id": "ca5624552b6f3e90"
+    },
+    {
+      "id": "33f9",
+      "username": "fcc_test_17533502371",
+      "_id": "2f65ccaff2174767"
+    },
+    {
+      "id": "d96a",
+      "username": "fcc_test_17533502371",
+      "_id": "e52ce1377d7f98e1"
+    },
+    {
+      "id": "8145",
+      "username": "fcc_test_17533502371",
+      "_id": "906566ad85abe156"
+    },
+    {
+      "id": "4bbb",
+      "username": "fcc_test_17533502372",
+      "_id": "f5b01779c3e9f3e5"
+    },
+    {
+      "id": "ab27",
+      "username": "fcc_test_17533502372",
+      "_id": "65ba6009fa3d043d"
+    },
+    {
+      "id": "00e8",
+      "username": "fcc_test_17533502372",
+      "_id": "fc4e37c8d21d970f"
+    },
+    {
+      "id": "0841",
+      "username": "fcc_test_17533502373",
+      "_id": "031f13b1f34e2f35"
+    },
+    {
+      "id": "82f5",
+      "username": "fcc_test_17533502373",
+      "_id": "45fb94fab436194d"
+    },
+    {
+      "id": "f2de",
+      "username": "fcc_test_17533502373",
+      "_id": "a93dab3fbf06321c"
+    },
+    {
+      "id": "c3fa",
+      "username": "fcc_test_17533502374",
+      "_id": "4eacb8d64a01f772"
+    },
+    {
+      "id": "99eb",
+      "username": "fcc_test_17533503287",
+      "_id": "361f5adb738bd90a"
+    },
+    {
+      "id": "cfa8",
+      "username": "fcc_test_17533503287",
+      "_id": "d09c92912cc57783"
+    },
+    {
+      "id": "54da",
+      "username": "fcc_test_17533503287",
+      "_id": "349aa12a20eab864"
+    },
+    {
+      "id": "c88c",
+      "username": "fcc_test_17533503288",
+      "_id": "72c0f3168be4be16"
+    },
+    {
+      "id": "2c57",
+      "username": "fcc_test_17533503288",
+      "_id": "76e35238d2f068d0"
+    },
+    {
+      "id": "c1a9",
+      "username": "fcc_test_17533503288",
+      "_id": "e388cdeac43f1d04"
+    },
+    {
+      "id": "4c12",
+      "username": "fcc_test_17533503288",
+      "_id": "b14c6774724702ae"
+    },
+    {
+      "id": "a68b",
+      "username": "fcc_test_17533503289",
+      "_id": "1999a91d28ad1779"
+    },
+    {
+      "id": "a605",
+      "username": "fcc_test_17533503289",
+      "_id": "f63f2a0af7bfd8d4"
+    },
+    {
+      "id": "8de0",
+      "username": "fcc_test_17533503289",
+      "_id": "15258e240d5ff916"
+    },
+    {
+      "id": "5212",
+      "username": "fcc_test_17533503290",
+      "_id": "0a6bd10f434b27bc"
+    },
+    {
+      "id": "bd15",
+      "username": "fcc_test_17533503290",
+      "_id": "6947be1696efb5be"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "9672",
+      "_id": "6bda0abf0086c8da",
+      "description": "ky esht i madh fr",
+      "duration": "23",
+      "date": "Fri May 02 2025"
+    },
+    {
+      "id": "7349",
+      "description": "test",
+      "duration": "60",
+      "date": "Mon Jan 01 1990",
+      "_id": "2f65ccaff2174767"
+    },
+    {
+      "id": "268a",
+      "description": "test",
+      "duration": "60",
+      "date": "Mon Jan 01 1990",
+      "_id": "e52ce1377d7f98e1"
+    },
+    {
+      "id": "30b6",
+      "description": "test",
+      "duration": "60",
+      "date": "Thu Jul 24 2025",
+      "_id": "906566ad85abe156"
+    },
+    {
+      "id": "04fc",
+      "description": "test",
+      "duration": "60",
+      "date": "Thu Jul 24 2025",
+      "_id": "f5b01779c3e9f3e5"
+    },
+    {
+      "id": "5e1a",
+      "description": "test",
+      "duration": "60",
+      "date": "Thu Jul 24 2025",
+      "_id": "65ba6009fa3d043d"
+    },
+    {
+      "id": "893a",
+      "description": "test",
+      "duration": "60",
+      "date": "Thu Jul 24 2025",
+      "_id": "fc4e37c8d21d970f"
+    },
+    {
+      "id": "b41b",
+      "description": "test",
+      "duration": "60",
+      "date": "Thu Jul 24 2025",
+      "_id": "031f13b1f34e2f35"
+    },
+    {
+      "id": "162c",
+      "description": "test",
+      "duration": "60",
+      "date": "Thu Jul 24 2025",
+      "_id": "45fb94fab436194d"
+    },
+    {
+      "id": "04d9",
+      "description": "test",
+      "duration": "60",
+      "date": "Thu Jul 24 2025",
+      "_id": "a93dab3fbf06321c"
+    },
+    {
+      "id": "c155",
+      "description": "test",
+      "duration": "60",
+      "date": "Mon Jan 01 1990",
+      "_id": "4eacb8d64a01f772"
+    },
+    {
+      "id": "9972",
+      "description": "test",
+      "duration": "60",
+      "date": "Wed Jan 03 1990",
+      "_id": "4eacb8d64a01f772"
+    },
+    {
+      "id": "9a97",
+      "description": "test",
+      "duration": "60",
+      "date": "Mon Jan 01 1990",
+      "_id": "349aa12a20eab864"
+    },
+    {
+      "id": "a481",
+      "description": "test",
+      "duration": "60",
+      "date": "Mon Jan 01 1990",
+      "_id": "72c0f3168be4be16"
+    },
+    {
+      "id": "af7b",
+      "description": "test",
+      "duration": "60",
+      "date": "Thu Jul 24 2025",
+      "_id": "76e35238d2f068d0"
+    },
+    {
+      "id": "1432",
+      "description": "test",
+      "duration": "60",
+      "date": "Thu Jul 24 2025",
+      "_id": "e388cdeac43f1d04"
+    },
+    {
+      "id": "1153",
+      "description": "test",
+      "duration": "60",
+      "date": "Thu Jul 24 2025",
+      "_id": "b14c6774724702ae"
+    },
+    {
+      "id": "30aa",
+      "description": "test",
+      "duration": "60",
+      "date": "Thu Jul 24 2025",
+      "_id": "1999a91d28ad1779"
+    },
+    {
+      "id": "dddf",
+      "description": "test",
+      "duration": "60",
+      "date": "Thu Jul 24 2025",
+      "_id": "f63f2a0af7bfd8d4"
+    },
+    {
+      "id": "105e",
+      "description": "test",
+      "duration": "60",
+      "date": "Thu Jul 24 2025",
+      "_id": "15258e240d5ff916"
+    },
+    {
+      "id": "373d",
+      "description": "test",
+      "duration": "60",
+      "date": "Thu Jul 24 2025",
+      "_id": "0a6bd10f434b27bc"
+    },
+    {
+      "id": "831f",
+      "description": "test",
+      "duration": "60",
+      "date": "Mon Jan 01 1990",
+      "_id": "6947be1696efb5be"
+    },
+    {
+      "id": "2787",
+      "description": "test",
+      "duration": "60",
+      "date": "Wed Jan 03 1990",
+      "_id": "6947be1696efb5be"
+    }
+  ]
+}
